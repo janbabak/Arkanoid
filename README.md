@@ -2,7 +2,7 @@
 
 Author: Jan Babák
 
-## Task
+## Task:
 
 Implement basic **action game** for one or more players against computer.
 
@@ -14,13 +14,13 @@ Implement basic **action game** for one or more players against computer.
 4. Loading map from file, saving scores to file...
 5. Use polymorphism.
 
-## Arkanoid description
+## Arkanoid description:
 
 ![thumbnail](arkanoidThumbnail.png)
 
 Arkanoid (also called as breakout) is a 2D game. Game is composed from bricks, ball and paddle. Ball bounces to walls and paddle. If ball touches brick, brick is destoryed. When all bricks are destroyed, player win, when ball falls under paddle level, player lost. Player can move by paddle only to left and right. Speed of ball is slowly increasing. There are bonuses, like paddle width extension, or slowing the game for a while, when brick is destroyed.
 
-## Controls
+## Controls:
 
 - Option 1 - numpad:
   - up: 8 (in menu)
